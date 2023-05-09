@@ -2,7 +2,7 @@
 <h3 align="center">A experienced full stack developer from India</h3>
 <h3 > I am highly skilled and experienced Software Engineer with over 6 years of experience in the IT industry. Rahul is a results-driven and detail-oriented professional with expertise in Full Stack Development, Java, Spring, Hibernate, and Microservices, Angular. </h3>
  <h3 > I am having expertise in creating and managing complex software applications is well-known among his peers. He is an expert in implementing best coding practices, ensuring software quality, and delivering software within deadlines. </h3>
- <h3 > With strong problem-solving skills and excellent communication skills, I is an efficient communicator and an effective team player. I am passionate about exploring new technologies and staying updated with the latest industry trends. He is excited to bring his skills and expertise to a new opportunity and contribute to a team that is passionate about delivering high-quality software solutions. </h3>
+ <h3 > With strong problem-solving skills and excellent communication skills, I am efficient communicator and an effective team player. I am passionate about exploring new technologies and staying updated with the latest industry trends. He is excited to bring his skills and expertise to a new opportunity and contribute to a team that is passionate about delivering high-quality software solutions. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulverma2241&label=Profile%20views&color=0e75b6&style=flat" alt="rahulverma2241" /> </p>
 
 <h3 align="left">Connect with me:</h3>
